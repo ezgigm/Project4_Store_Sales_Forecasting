@@ -12,8 +12,13 @@ My aim in this project is to build a model which predicts sales of the stores. W
 
 **Solution:**
 
+With the accurate prediction company can;
 
-
+- Determine seasonal demands and take action for this
+- Protect from money loss because achieving sales targets can have a positive effect on stock prices and investors' perceptions
+- Forecast revenue easily and accurately
+- Manage inventories
+- Do more effective campaigns
 
 **Data:**
 
