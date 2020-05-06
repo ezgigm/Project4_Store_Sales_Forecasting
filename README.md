@@ -60,12 +60,16 @@ More detailed finding can be found in notebooks with explorations.
 
 **Future Improvements:**
 
-- Feature engineering can be done in detail to find better relations.
 - Data will be made more stationary with different techniques.
-- Markdown effects can be analized as departmental.
-- Different models can be build for each store and each departments.
-- Store locations can be added to data.
-- More holidays which have higher sales times can be added such as Come Back to School time, Halloween or Easter. 
+
+- More detailed feature engineering and feature selection will be done.
+
+- More data can be found to observe holiday effects on sales and different holidays will be added like Easter, Halloween and  Come Back to School times.
+
+- Markdown effects on model will be improved according to department sales.
+
+- Different models can be build for special stores or departments. 
+
 - Market basket analysis can be done to find higher demand items of departments.
  
  # Repository Guide
@@ -102,7 +106,7 @@ More detailed finding can be found in notebooks with explorations.
   
 # Resources 
  
- For all details of competition:
+ For all details of the competition:
  
  https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview
  
