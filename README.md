@@ -67,7 +67,7 @@ More detailed finding can be found in notebooks with explorations.
  
  **CSV Files:**
  
- The raw data files which obtained by Kaggle can be found ;
+ The raw data files which obtained from Kaggle can be found ;
  
  https://github.com/ezgigm/Project4_Store_Sales_Forecasting/tree/master/Raw%20Data
  
@@ -79,25 +79,25 @@ More detailed finding can be found in notebooks with explorations.
  
  Every step for data understanding, cleaning, exploring and feature engineering can be found in ;
  
- https://github.com/ezgigm/Project3_TanzanianWaterWell/blob/master/STEP1_Cleaning_and_Exploring_Data.ipynb
+ https://github.com/ezgigm/Project4_Store_Sales_Forecasting/blob/master/STEP1_Cleaning_and_EDA.ipynb
  
- Each modeling, encoding, scaling, feature importance steps can be found in ;
+ Metric and Random Forest Regressor with feature importance steps can be found in ;
  
- https://github.com/ezgigm/Project3_TanzanianWaterWell/blob/master/STEP2_Modeling.ipynb
+ https://github.com/ezgigm/Project4_Store_Sales_Forecasting/blob/master/STEP2_Random_Forest_Regressor.ipynb
  
- For ternary target, modeling, encoding, scaling, over-sampling techniques can be found in ;
+ Time Series models can be found in ;
  
- https://github.com/ezgigm/Project3_TanzanianWaterWell/blob/master/STEP3_Modeling%20for%20Multi-Class%20Target.ipynb
+ https://github.com/ezgigm/Project4_Store_Sales_Forecasting/blob/master/STEP3_Modeling_ARIMA_and_ExponentialSmoothing.ipynb
  
  **Presentation:**
  
  Presentation can be found from here in .pdf format ;
  
- https://github.com/ezgigm/Project3_TanzanianWaterWell/blob/master/Presentation.pdf
+ https://github.com/ezgigm/Project4_Store_Sales_Forecasting/blob/master/Walmart%20Sales%20Forecast%20Presentation.pdf
   
 # Resources 
  
- For all explanations of features : https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/
+ For all details of competition:
  
- https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
+ https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview
  
