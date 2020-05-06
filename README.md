@@ -36,7 +36,7 @@ The data is obtained from [Kaggle competition](https://www.kaggle.com/c/walmart-
 
 **Metric:**
 
-The metric of the competition is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday. It can be found in detail in [here](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview/evaluation).
+The metric of the competition is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday. It can be found in detail [here](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview/evaluation).
 
 ***Understanding, Cleaning and Exploring Data:*** The first challange of this data is that there are too much seasonal effects on sales. Some departments have higher sales in some seasons but on average the best departments are different. To analyze these effects, data divided weeks of the year and also holiday dates categorized.
 
