@@ -1,1 +1,1 @@
-# Store_Sales_Forecasting
+# store-sales-prediction-timeseries
