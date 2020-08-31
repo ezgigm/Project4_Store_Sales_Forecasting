@@ -1,6 +1,6 @@
 # Walmart Store Sales Forecasting
 
-Walmart began recruiting competition for store sales forecasting on [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview). In my module 4 project, I worked on this competitio
+Walmart began recruiting competition for store sales forecasting on [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview). In my module 4 project, I worked on this competition.
 
 **Problem:**
 
